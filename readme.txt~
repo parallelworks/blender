@@ -2,8 +2,7 @@
 ## Blender bpy script  ##
 ######################### 
 
-This folder contains two ready-to-go examples of a blender script for rendering .x3d files.
-One example correponds to the damBreak tutorial in OpenFOAM and the other to elbow case.
+This folder contains a ready-to-go example of a blender script for rendering .x3d files.
 
 # SCRIPTS
 The folder contains 2 scripts: 
@@ -12,8 +11,6 @@ The folder contains 2 scripts:
    blender -b --python renderScene.py 'sceneOptions.txt'
 2. genAnimation.sh: Will sweep throgh various scenes to generate an animation by running the command:
    ./genAnimation.sh
-   The script creates sceneOptions.txt from paramSceneOptions_elbow.txt or paramSceneOptions_damBreak.txt
-   depending on which case you want to run. 
 
 Both scripts are heavily commented if more details are needed.
 

@@ -25,25 +25,22 @@ class sceneOptions():
      # Camera distance
      # Zero value will trigger the default option
      self.distance=0
-     # Camera will towards its focus point
-     # Chose shell or mainObject
-     # shell: Boundary of the domain
-     # mainObject: imported volume
-     self.focus='shell'
+     # Camera will look towards the focus object (imported volume)
+     self.focus='def'
   def setCamera(self,focusOb):
      if self.orientation!='none':
         shellSize=focusOb.dimensions
-        shellLocation=focusOb.matrix_world.to_translation()
+        shellLocation=focusOb.location
         p1=-(shellLocation[0]+shellSize[0])/2
         p2=(shellLocation[1]+shellSize[1])/2
         p3=(shellLocation[2]+shellSize[2])/2
         self.focusPoint=(p1,p2,p3)
         if self.distance==0:
-           self.distance=7*max(shellLocation[0]+shellSize[0],shellLocation[1]+shellSize[1],shellLocation[2]+shellSize[2])
+           self.distance=3*max(shellLocation[0]+shellSize[0],shellLocation[1]+shellSize[1],shellLocation[2]+shellSize[2])
         self.camLocation=(p1,p2,self.distance)
         if self.orientation=='iso':
            cos45=math.cos(math.pi/4)
-           self.camLocation=(self.distance*cos45,self.distance*cos45,self.distance*cos45)
+           self.camLocation=(-self.distance*cos45,self.distance*cos45,self.distance*cos45)
         elif self.orientation=='front':
            self.camLocation=(p1,p2,self.distance)
         elif self.orientation=='back':
@@ -56,7 +53,12 @@ class sceneOptions():
            self.camLocation=(-self.distance,p2,p3)
         elif self.orientation=='down':
            self.camLocation=(self.distance,p2,p3)
-        
+     else: # User defined focusPoint and camLocation --> calc distance
+        r=0
+        for i in range(3):
+           aux=self.focusPoint[i]-self.camLocation[i]
+           r=r+aux*aux
+        self.distance=math.sqrt(r)
         
 def assignColorMaterial(diffuse, specular, alpha, ob):
     mat = bpy.data.materials.new('colorMat')
@@ -133,10 +135,10 @@ def setMaterial(ob, mat):
 
 
 ## This class stores and updates the position of the camera
-# Note 1: The process of updating the camera position is not affected by its previous position
+# Note 1: The process of updating the camera orientation is not affected by its previous orientation
 # Note 2: The function will only work if the following options are selected for importing the mesh:
 #         axis_forward='X', axis_up='Z'. Otherwise, changes need to be made to it.          
-class camPosition():
+class camOrientation():
   def __init__(self):
      # Distance in the (y,z) plane from the camLocation to focusPoint
      self.radius=0
@@ -147,13 +149,11 @@ class camPosition():
      self.yaw=0
      self.pitch=0
      self.roll=math.pi/2
-  # Sets the camera position to camLocation and modifies its angles
-  # so that it is looking towards focusPoint
+  # Orientates the camera so that that it looks from the camLocation to focusPoint
   # External Input
   # - focusPoint: The camera will be looking at this point
   # - camLocation: Position of the camera
-  # - cam: bpy camera object
-  def update(self,focusPoint,camLocation,cam):
+  def update(self,focusPoint,camLocation):
      r=0
      for i in range(2):
          aux=focusPoint[i+1]-camLocation[i+1]
@@ -165,17 +165,15 @@ class camPosition():
      self.yaw=math.atan2(y,x)
      self.height=z
      self.pitch=math.atan2(self.height,self.radius)
-     cam.location=(self.height,self.radius*math.sin(self.yaw),self.radius*math.cos(self.yaw))
-     cam.rotation_euler=(self.pitch,self.yaw,self.roll)
-     return cam
 
 ## Keeps track and renames the current number of objects according to their type and 
 # the order in wich they are imported.
 # Note 1: When a mesh is imported into blender it comes with default lights and camera
+# Note 2: In the current version of the code imported cameras are deleted
 class objectList():
   def __init__(self):
     self.N_Object=0 # Total number of objects
-    self.N_Camera=0 # Toral number of cameras
+    self.N_Camera=0 # Total number of cameras (Should remain =0 in current version)
     self.N_Lamp=0  # Total number of lamps
     self.N_Mesh=0 # Total number of meshes
   # Renames the objects according to their type and the order in which they are imported
@@ -192,12 +190,10 @@ class objectList():
       bpy.data.objects[oldDefName].name = newDefName
       print(("Current default name: %s") % item.name)
     elif item.type=='CAMERA':
-      self.N_Camera=self.N_Camera+1
-      oldDefName=item.name
-      print(("Previous default name: %s") % item.name)
-      newDefName="Camera%s" % self.N_Camera
-      bpy.data.objects[oldDefName].name = newDefName
-      print(("Current default name: %s") % item.name)
+      bpy.data.objects[item.name].select = True
+      print(("Deleted: %s") % item.name)
+      bpy.ops.object.delete() # Deletes cameras
+      self.N_Object=self.N_Object-1
     elif item.type=='LAMP':
       self.N_Lamp=self.N_Lamp+1
       oldDefName=item.name
@@ -210,6 +206,7 @@ class objectList():
       print('\n')
     return item
 
+# Defines the path to the .x3d files and the assigned material
 class mesh():
   def __init__(self):
      self.path2mesh='def'
@@ -217,6 +214,7 @@ class mesh():
      self.diffuse=(0,0,0)
      self.specular=(0,0,0)
      self.alpha=0
+
 
 # Deleting all objects
 # Note 1: Sometimes blender is initialized with default objects: cube, light and camera
@@ -228,16 +226,17 @@ for item in bpy.data.objects:
 
 sceneOp=sceneOptions()
 # Reading input from json file
-k=0
-OL=objectList()
-cmesh=mesh()
+k=0 # Line number in the json file
+OL=objectList() # Keeps track of the current number of objects and their names
+cmesh=mesh() # Stores the properties of the current mesh object
+# The first line in the json file defines the scene. Each following lines defines an
+# imported .x3d mesh.
 for line in so:
     if k==0: # Read general options
        sceneOp.__dict__= json.loads(line)
        path2blended=sceneOp.path2blended
        print(sceneOp.horizonColor)
        # Defining the background color
-       # Currently light grey
        w=bpy.data.worlds['World']
        w.horizon_color = sceneOp.horizonColor
        # Should transition color from horizon to zenith but is not working
@@ -262,10 +261,11 @@ for line in so:
           if j>OL.N_Object:
              item=OL.rename(item)
           j=j+1
-       #######################################################
-       # Renaming imported mesh and assigning it a  material #
-       #######################################################
+       ######################################################
+       # Renaming imported mesh and assigning it a material #
+       ######################################################
        name="Mesh%s" %k
+       print(("%s ---> Material: %s") %(name,cmesh.material))
        bpy.data.objects[name].select = True
        bpy.ops.object.shade_smooth()
        ob=bpy.data.objects[name]
@@ -275,24 +275,33 @@ for line in so:
           ob=assignWaterMaterial(ob)
        elif cmesh.material=="color":
           ob=assignColorMaterial(cmesh.diffuse,cmesh.specular,cmesh,alpha, ob)
-    k=k+1        
+    k=k+1      
 ############################
 # Setting camera position  #
 ############################
 # The camera position is set in two setps:
 # Step 1: Use camera options "sceneOptions()" to decide the location of the focus point and the camera
-# Step 2: Use "camPosition()" to move the camera to the desired location and make it look towards the focus point
-# We will use the first imported camera
+# Step 2: Use "camOrientation()" to point the camera towards the focus point
 # Note 1: The initial position of the camera is irrelevant 
-cam = bpy.data.objects["Camera1"]
 # Seting desired camera and focus positions
 focusOb=bpy.data.objects[sceneOp.focus]
 sceneOp.setCamera(focusOb) # uses input to calculate both positions
 # Camera will look at focusPoint from camLocation
 focusPoint=sceneOp.focusPoint
 camLocation=sceneOp.camLocation
-camPos=camPosition()
-cam=camPos.update(focusPoint,camLocation,cam)
+# Seting desired camera orientation
+camOr=camOrientation()
+camOr.update(focusPoint,camLocation)
+camRotation_euler=(camOr.pitch,camOr.yaw,camOr.roll)
+# Creating a new camera
+bpy.ops.object.camera_add(location=(0,0,0))
+bpy.data.objects["Camera"].rotation_euler=camRotation_euler
+bpy.data.objects["Camera"].location =camLocation
+cam=bpy.data.objects['Camera']
+# The camera ONLY records objects located at a distance between clip_start and clip_end!!!
+cam.data.clip_start=0
+cam.data.clip_end=sceneOp.distance*2 # WARNING: readjust if objects are very large or far away from each-other
+
     
 ###################
 # Rendering Scene #
