@@ -1,0 +1,35 @@
+import sys
+import math
+import json
+
+class camOptions():
+  def __init__(self):
+     self.predefinedView=True
+     # If predefinedView=False
+     self.focusPoint=(0,0,0)
+     self.camLocation=(0,0,0)
+     # Else:
+     # Camera orientation:
+     # iso, front, back, top, bottom, left, right
+     self.orientation='iso'
+     # Camera distance
+     # Zero value will trigger the default option
+     self.distance=0
+     # Camera will towards its focus point
+     # Chose shell or mainObject
+     # shell: Boundary of the domain
+     # mainObject: imported volume
+     self.focus='shell'
+  def setLocations(self):
+
+
+camOptions=camOptions()
+i=open(sys.argv[1],'r')
+#for line in i:
+ # camOptions.__dict__= json.loads(line)
+camOptions.__dict__= json.loads(i)
+print(camOptions.focusPoint)
+print(camOptions.camLocation)
+print(camOptions.orientation)
+print(camOptions.distance)
+print(camOptions.focus)
