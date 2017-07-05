@@ -1,0 +1,5 @@
+{"groundSize": 0, "groundMaterial": "color", "groundColor": [0.8,0.8,0.8], "lightSize": 0, "lightColor": [1,0.8,0.8,1], "lightIntensity": 10, "horizonColor": [0.8,0.8,0.8]}
+{"focus": [0, 0, 0], "distance": 0, "focusObject": "Mesh1", "location": [0, 0, 0], "option": "iso1"}
+{"focus": [0, 0, 0], "distance": 0, "focusObject": "Mesh1", "location": [0, 0, 0], "option": "iso2"}
+{"path2mesh": "x3dFiles/damBreak/domain.x3d", "material": "glass", "color": [0, 0, 0], "lightIntensity": 0}
+{"path2mesh": "x3dFiles/damBreak/t20.x3d", "material": "water", "color": [1, 0, 0], "lightIntensity": 0}
