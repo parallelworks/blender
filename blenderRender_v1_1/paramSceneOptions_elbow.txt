@@ -1,3 +1,0 @@
-{"focusPoint": [0, 0, 0], "distance": 0, "focus": "Mesh2", "camLocation": [0, 0, 0], "orientation": "front", "path2blended": "blendedFiles/elbow/blended_@num@.png", "horizonColor":[0.8,0.8,0.8]}
-{"path2mesh": "x3dFiles/elbow/@num@_solo.x3d", "material": "water", "diffuse": [0, 0, 0], "specular": [0, 0, 0], "alpha": 0}
-{"path2mesh": "x3dFiles/elbow/@num@_body.x3d", "material": "glass", "diffuse": [0, 0, 0], "specular": [0, 0, 0], "alpha": 0}
