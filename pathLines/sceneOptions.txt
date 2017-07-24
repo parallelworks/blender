@@ -1,0 +1,5 @@
+{"groundSize": 0, "groundMaterial": "color", "groundColor": [0.8,0.8,0.8], "lightSize": 20, "lightColor": [1,0.8,0.8,1], "lightIntensity": 150, "horizonColor": [0.8,0.8,0.8]}
+{"focus": [0, 0, 0], "distance": 0, "focusObject": "Mesh1", "location": [0, 0, 0], "option": "iso1", "angVel": 40}
+{"focus": [0, 0, 0], "distance": 0, "focusObject": "Mesh1", "location": [0, 0, 0], "option": "iso2", "angVel": 0}
+{"startTime": 1, "endTime": 80, "dt": 0.5, "path2case": "elbow3D", "nD":3, "colorScale": "Umag", "coneNumber": 150, "coneHeight": 3, "coneRadius": 1}
+{"path2mesh": "x3dFiles/0_body.x3d", "material": "glass", "diffuse": [0, 0, 0], "specular": [1, 1, 1], "alpha": 0}

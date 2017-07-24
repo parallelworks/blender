@@ -1,0 +1,39 @@
+
+FoamFile
+{
+    version 2.0;
+    format ascii;
+    class polyBoundaryMesh;
+    location "0/polyMesh";
+    object boundary;
+}
+4(
+
+    pressure-outlet
+    {
+        nFaces 184;
+        startFace 58110;
+        type patch;
+    }
+
+    velocity-inlet-1
+    {
+        nFaces 196;
+        startFace 58294;
+        type patch;
+    }
+
+    velocity-inlet-2
+    {
+        nFaces 12;
+        startFace 58490;
+        type patch;
+    }
+
+    walls
+    {
+        nFaces 4415;
+        startFace 58502;
+        type wall;
+    }
+)

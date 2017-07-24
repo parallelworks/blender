@@ -1,0 +1,46 @@
+/*--------------------------------*- C++ -*----------------------------------*\
+|       o          |                                                          |
+|    o     o       | HELYX-OS                                                  |
+|   o   O   o      | Version: v2.4.0                                           |
+|    o     o       | Web:     http://www.engys.com                            |
+|       o          |                                                          |
+\*---------------------------------------------------------------------------*/
+FoamFile
+{
+    version 2.0;
+    format ascii;
+    class volVectorField;
+    location "0";
+    object U;
+}
+dimensions [ 0 1 -1 0 0 0 0 ];
+internalField uniform (0.0 0.0 0.0);
+boundaryField
+{
+    pressure-outlet
+    {
+        type zeroGradient;
+        value uniform ( 0.0 0.0 0.0 );
+    }
+
+    velocity-inlet-1
+    {
+        type surfaceNormalFixedValue;
+        value uniform ( 0.0 0.0 0.0 );
+        refValue uniform -1.0; 
+    }
+
+    velocity-inlet-2
+    {
+        type surfaceNormalFixedValue;
+        value uniform ( 0.0 0.0 0.0 );
+        refValue uniform -4.0; 
+    }
+
+    walls
+    {
+        type fixedValue;
+        value uniform ( 0 0 0);
+    }
+
+}
