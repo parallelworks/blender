@@ -39,8 +39,8 @@ Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.24M, Peak:3.24M | Scene, RenderLay
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Updating Lookup Tables
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Updating Device | Writing constant memory
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Path Tracing Tile 0/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.39M, Peak:3.39M | Scene, RenderLayer | Path Tracing Tile 5/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.15M, Peak:4.15M | Scene, RenderLayer | Path Tracing Tile 7/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.51M, Peak:3.51M | Scene, RenderLayer | Path Tracing Tile 5/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.18M, Peak:4.18M | Scene, RenderLayer | Path Tracing Tile 7/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.37M, Peak:4.37M | Scene, RenderLayer | Path Tracing Tile 8/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 9/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 10/135
@@ -81,7 +81,7 @@ Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLay
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 45/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 46/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 47/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 48/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.25M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 48/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 49/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 50/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 51/135
@@ -95,9 +95,9 @@ Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLay
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 59/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 60/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 61/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 62/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 62/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 63/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 64/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.25M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 64/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 65/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 66/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 67/135
@@ -110,17 +110,17 @@ Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLay
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 74/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 75/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 76/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 77/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 77/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 78/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 79/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 79/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 80/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 81/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 82/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 83/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 84/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 85/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 86/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 87/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 86/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 87/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 88/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 89/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 90/135
@@ -136,7 +136,7 @@ Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLay
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 100/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 101/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 102/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 103/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 103/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 104/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 105/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 106/135
@@ -154,7 +154,7 @@ Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLay
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 118/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 119/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 120/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 121/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 121/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 122/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 123/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 124/135
@@ -164,14 +164,14 @@ Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLay
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 128/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 129/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 130/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 131/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 131/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 132/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 133/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 134/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 135/135
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.26M, Peak:4.39M | Scene, RenderLayer | Finished
 Fra:1 Mem:10.31M (9.89M, Peak 22.01M) Sce: Scene Ve:0 Fa:0 La:0
-Saved: blendedFiles/elbow3D/0000.png Time: 00:12.66 (Saving: 00:00.78)
+Saved: blendedFiles/elbow3D/0000.png Time: 00:12.68 (Saving: 00:00.79)
 
 read blend: /home/ubuntu/alvaro/blender/sceneOptions.txt
 Error: Failed to read blend file '/home/ubuntu/alvaro/blender/sceneOptions.txt', not a blend file
@@ -279,139 +279,13 @@ Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.24M, Peak:3.24M | Scene, RenderLay
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Updating Lookup Tables
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Updating Device | Writing constant memory
 Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Path Tracing Tile 0/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.38M, Peak:3.38M | Scene, RenderLayer | Path Tracing Tile 5/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.37M, Peak:4.37M | Scene, RenderLayer | Path Tracing Tile 8/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 9/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 10/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 11/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 12/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 13/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 14/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 15/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 16/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 17/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 18/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 19/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 20/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 21/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 22/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 23/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 24/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 25/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 26/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 27/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 28/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 29/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 30/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 31/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 32/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 33/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 34/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 35/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 36/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 37/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 38/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 39/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 40/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 41/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 42/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 43/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 44/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 45/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 46/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 47/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 48/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 49/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 50/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 51/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 52/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 53/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 54/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 55/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 56/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 57/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 58/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 59/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 60/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 61/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 62/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.16M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 63/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 64/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 65/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 66/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 67/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 68/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 69/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 70/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 71/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 72/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 73/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 74/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 75/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.22M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 76/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 77/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 78/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 79/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 80/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 81/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 82/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 83/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.22M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 84/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.22M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 85/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 86/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 87/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 88/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 89/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 90/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 91/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 92/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 93/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 94/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 95/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 96/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 97/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 98/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 99/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 100/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 101/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.22M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 102/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.22M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 103/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 104/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 105/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 106/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 107/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 108/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 109/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 110/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 111/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 112/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 113/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 114/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 115/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 116/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 117/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.22M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 118/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.22M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 119/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 120/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 121/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 122/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 123/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 124/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 125/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 126/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 127/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 128/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 129/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.22M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 130/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.16M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 131/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 132/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 133/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.38M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 134/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.30M, Peak:4.38M | Scene, RenderLayer | Path Tracing Tile 135/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.26M, Peak:4.38M | Scene, RenderLayer | Finished
-Fra:1 Mem:10.31M (9.89M, Peak 22.01M) Sce: Scene Ve:0 Fa:0 La:0
-Saved: blendedFiles/elbow3D/0001.png Time: 00:12.75 (Saving: 00:00.78)
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.38M, Peak:3.38M | Scene, RenderLayer | Path Tracing Tile 4/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 8/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:4.37M, Peak:4.37M | Scene, RenderLayer | Path Tracing Tile 9/135
 
+Sent an internal break event. Press ^C again to kill Blender
+Fra:1 Mem:10.33M (9.89M, Peak 22.01M) | Mem:3.24M, Peak:4.37M | Scene, RenderLayer | Cancel | Cancelled
+Fra:1 Mem:10.31M (9.89M, Peak 22.01M) Sce: Scene Ve:0 Fa:0 La:0
 read blend: /home/ubuntu/alvaro/blender/sceneOptions.txt
 Error: Failed to read blend file '/home/ubuntu/alvaro/blender/sceneOptions.txt', not a blend file
 Deleting the following default objects:
@@ -518,139 +392,12 @@ Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:3.24M, Peak:3.24M | Scene, RenderLay
 Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Updating Lookup Tables
 Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Updating Device | Writing constant memory
 Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Path Tracing Tile 0/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Path Tracing Tile 4/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 8/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 9/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 10/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 11/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 12/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 13/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 14/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 15/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 16/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 17/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 18/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 19/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 20/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 21/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 22/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 23/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 24/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 25/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 26/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 27/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 28/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 29/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 30/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 31/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 32/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 33/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 34/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 35/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 36/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 37/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 38/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 39/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 40/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 41/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 42/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 43/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 44/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 45/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 46/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 47/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 48/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 49/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 50/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 51/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 52/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 53/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 54/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 55/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.25M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 56/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 57/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 58/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 59/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 60/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 61/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 62/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 63/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 64/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 65/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 66/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 67/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 68/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 69/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 70/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 71/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 72/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 73/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 74/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 75/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 76/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 77/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 78/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 79/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.25M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 80/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 81/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 82/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 83/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 84/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 85/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 86/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 87/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 88/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 89/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 90/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 91/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 92/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 93/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 94/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 95/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 96/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 97/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 98/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 99/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 100/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 101/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 102/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 103/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 104/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 105/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 106/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 107/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 108/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 109/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 110/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 111/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 112/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 113/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 114/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 115/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 116/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.17M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 117/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 118/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.23M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 119/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 120/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 121/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 122/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 123/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 124/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 125/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 126/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 127/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 128/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 129/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 130/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 131/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 132/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 133/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.39M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 134/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.31M, Peak:4.39M | Scene, RenderLayer | Path Tracing Tile 135/135
-Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:3.26M, Peak:4.39M | Scene, RenderLayer | Finished
-Fra:1 Mem:10.31M (9.89M, Peak 22.02M) Sce: Scene Ve:0 Fa:0 La:0
-Saved: blendedFiles/elbow3D/0002.png Time: 00:12.64 (Saving: 00:00.78)
+Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:3.26M, Peak:3.26M | Scene, RenderLayer | Path Tracing Tile 5/135
+Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:4.28M, Peak:4.28M | Scene, RenderLayer | Path Tracing Tile 8/135
 
+Sent an internal break event. Press ^C again to kill Blender
+Fra:1 Mem:10.33M (9.89M, Peak 22.02M) | Mem:3.26M, Peak:4.39M | Scene, RenderLayer | Cancel | Cancelled
+Fra:1 Mem:10.31M (9.89M, Peak 22.02M) Sce: Scene Ve:0 Fa:0 La:0
 read blend: /home/ubuntu/alvaro/blender/sceneOptions.txt
 Error: Failed to read blend file '/home/ubuntu/alvaro/blender/sceneOptions.txt', not a blend file
 Deleting the following default objects:
@@ -757,139 +504,12 @@ Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:3.12M, Peak:3.12M | Scene, RenderLay
 Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:3.14M, Peak:3.14M | Scene, RenderLayer | Updating Lookup Tables
 Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:3.14M, Peak:3.14M | Scene, RenderLayer | Updating Device | Writing constant memory
 Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:3.14M, Peak:3.14M | Scene, RenderLayer | Path Tracing Tile 0/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:3.27M, Peak:3.27M | Scene, RenderLayer | Path Tracing Tile 3/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.25M, Peak:4.25M | Scene, RenderLayer | Path Tracing Tile 8/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 9/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 10/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 11/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 12/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 13/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 14/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 15/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 16/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 17/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 18/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 19/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 20/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 21/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 22/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 23/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 24/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 25/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 26/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 27/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 28/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 29/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 30/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 31/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 32/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 33/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 34/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 35/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 36/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 37/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 38/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 39/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 40/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 41/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 42/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 43/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 44/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 45/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 46/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 47/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 48/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 49/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 50/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 51/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 52/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 53/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 54/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 55/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 56/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 57/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 58/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 59/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 60/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 61/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 62/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 63/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 64/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 65/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 66/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 67/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 68/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 69/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 70/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 71/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 72/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 73/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 74/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 75/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.11M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 76/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.11M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 77/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 78/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 79/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 80/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 81/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 82/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 83/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.11M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 84/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.11M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 85/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 86/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 87/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 88/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 89/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 90/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 91/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 92/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 93/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 94/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 95/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 96/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 97/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 98/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 99/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 100/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 101/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.11M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 102/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.11M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 103/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 104/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 105/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 106/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 107/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 108/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 109/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 110/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 111/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 112/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 113/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 114/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 115/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 116/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 117/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.11M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 118/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.11M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 119/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 120/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 121/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 122/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 123/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 124/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 125/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 126/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 127/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 128/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 129/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.11M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 130/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 131/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 132/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 133/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.27M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 134/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.27M | Scene, RenderLayer | Path Tracing Tile 135/135
-Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:3.14M, Peak:4.27M | Scene, RenderLayer | Finished
-Fra:1 Mem:10.20M (9.89M, Peak 21.79M) Sce: Scene Ve:0 Fa:0 La:0
-Saved: blendedFiles/elbow3D/0003.png Time: 00:12.88 (Saving: 00:00.78)
+Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:3.27M, Peak:3.27M | Scene, RenderLayer | Path Tracing Tile 4/135
+Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:4.19M, Peak:4.19M | Scene, RenderLayer | Path Tracing Tile 8/135
 
+Sent an internal break event. Press ^C again to kill Blender
+Fra:1 Mem:10.22M (9.89M, Peak 21.79M) | Mem:3.14M, Peak:4.27M | Scene, RenderLayer | Cancel | Cancelled
+Fra:1 Mem:10.20M (9.89M, Peak 21.79M) Sce: Scene Ve:0 Fa:0 La:0
 read blend: /home/ubuntu/alvaro/blender/sceneOptions.txt
 Error: Failed to read blend file '/home/ubuntu/alvaro/blender/sceneOptions.txt', not a blend file
 Deleting the following default objects:
@@ -996,139 +616,13 @@ Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:3.19M, Peak:3.19M | Scene, RenderLay
 Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:3.21M, Peak:3.21M | Scene, RenderLayer | Updating Lookup Tables
 Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:3.21M, Peak:3.21M | Scene, RenderLayer | Updating Device | Writing constant memory
 Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:3.21M, Peak:3.21M | Scene, RenderLayer | Path Tracing Tile 0/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:3.46M, Peak:3.46M | Scene, RenderLayer | Path Tracing Tile 5/135
+Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:3.34M, Peak:3.34M | Scene, RenderLayer | Path Tracing Tile 5/135
+Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.16M, Peak:4.16M | Scene, RenderLayer | Path Tracing Tile 7/135
 Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.32M, Peak:4.32M | Scene, RenderLayer | Path Tracing Tile 8/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 9/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 10/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 11/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 12/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 13/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 14/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 15/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 16/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 17/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 18/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 19/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 20/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 21/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 22/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 23/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 24/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 25/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 26/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 27/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 28/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 29/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 30/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 31/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 32/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 33/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 34/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 35/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 36/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 37/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 38/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 39/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 40/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 41/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 42/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 43/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 44/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.19M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 45/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 46/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 47/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 48/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 49/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 50/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 51/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 52/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 53/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 54/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 55/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 56/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 57/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 58/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 59/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 60/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 61/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.18M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 62/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 63/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 64/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 65/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 66/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 67/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 68/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 69/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 70/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 71/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 72/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 73/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 74/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 75/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.18M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 76/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 77/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 78/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 79/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 80/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 81/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 82/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 83/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.18M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 84/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.18M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 85/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 86/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 87/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 88/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 89/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 90/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 91/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 92/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 93/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 94/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 95/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 96/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 97/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 98/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 99/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 100/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 101/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.18M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 102/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 103/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 104/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 105/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 106/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 107/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 108/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 109/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 110/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 111/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 112/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 113/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 114/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 115/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 116/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 117/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.18M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 118/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.18M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 119/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 120/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 121/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 122/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 123/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 124/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 125/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 126/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 127/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 128/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 129/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.18M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 130/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 131/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 132/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 133/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.34M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 134/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:4.26M, Peak:4.34M | Scene, RenderLayer | Path Tracing Tile 135/135
-Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:3.21M, Peak:4.34M | Scene, RenderLayer | Finished
-Fra:1 Mem:10.26M (9.89M, Peak 21.91M) Sce: Scene Ve:0 Fa:0 La:0
-Saved: blendedFiles/elbow3D/0004.png Time: 00:12.79 (Saving: 00:00.78)
 
+Sent an internal break event. Press ^C again to kill Blender
+Fra:1 Mem:10.28M (9.89M, Peak 21.91M) | Mem:3.21M, Peak:4.34M | Scene, RenderLayer | Cancel | Cancelled
+Fra:1 Mem:10.26M (9.89M, Peak 21.91M) Sce: Scene Ve:0 Fa:0 La:0
 read blend: /home/ubuntu/alvaro/blender/sceneOptions.txt
 Error: Failed to read blend file '/home/ubuntu/alvaro/blender/sceneOptions.txt', not a blend file
 Deleting the following default objects:

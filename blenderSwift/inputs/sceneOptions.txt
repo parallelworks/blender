@@ -1,0 +1,9 @@
+{"groundSize": 0, "groundMaterial": "color", "groundColor": [0.8,0.8,0.8], "lightSize": 10, "lightColor": [0.5,0.4,0.1,0.95], "lightIntensity": 1500, "horizonColor": [0.8,0.8,0.8]}
+{"focus": [0, 0, 0], "distance": 0, "focusObject": "Mesh1", "location": [0, 0, 0], "option": "iso2"}
+{"focus": [0, 0, 0], "distance": 200, "focusObject": "Mesh2", "location": [0, 0, 0], "option": "iso1"}
+{"path2mesh": "x3dFiles/ground.x3d", "material": "image", "color": [1, 0, 0], "lightIntensity": 0}
+{"path2mesh": "x3dFiles/water.x3d", "material": "water", "color": [1, 0, 0], "lightIntensity": 0}
+{"path2mesh": "x3dFiles/0_solo.x3d", "material": "original", "color": [0.6, 0.6, 0.6], "lightIntensity": 0}
+{"path2mesh": "x3dFiles/building1.x3d", "material": "color", "color": [0.6, 0.6, 0.6], "lightIntensity": 0}
+{"path2mesh": "x3dFiles/building2.x3d", "material": "color", "color": [0.6, 0.6, 0.6], "lightIntensity": 0}
+{"path2mesh": "x3dFiles/building3.x3d", "material": "color", "color": [0.6, 0.6, 0.6], "lightIntensity": 0}

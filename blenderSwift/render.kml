@@ -1,0 +1,310 @@
+// CACHE ID 03153d0c-11a0-45f9-8495-1d1a00295d88-no-provenance
+import(sys)
+import(scheduler)
+import(swift)
+importStdlib(2)
+
+types(
+	xs:schema(
+    			xs:simpleType("file", xs:restriction("string"))
+    )
+)
+swift.field.grassFile.file := swift:field("grassFile", "file")
+swift.field.renderframes.file.array.int := swift:field("renderframes", "file[int]")
+swift.field.const.float := swift:field("const", "float")
+swift.field.const.string := swift:field("const", "string")
+swift.field.const.boolean := swift:field("const", "boolean")
+swift.field.swift.mapper.17015.string := swift:field("swift.mapper.17015", "string")
+swift.field.utils.file.array.int := swift:field("utils", "file[int]")
+swift.field.sceneOptions.file := swift:field("sceneOptions", "file")
+swift.field.swift.mapper.17017.string := swift:field("swift.mapper.17017", "string")
+swift.field.swift.mapper.17021.string := swift:field("swift.mapper.17021", "string")
+swift.field.swift.mapper.17011.string := swift:field("swift.mapper.17011", "string")
+swift.field.swift.mapper.17023.string := swift:field("swift.mapper.17023", "string")
+swift.field.swift.mapper.17013.string := swift:field("swift.mapper.17013", "string")
+swift.field.x3dFiles.file.array.int := swift:field("x3dFiles", "file[int]")
+swift.field.temp.int := swift:field("temp", "int")
+swift.field.camPath.file := swift:field("camPath", "file")
+swift.field.swift.mapper.17019.string := swift:field("swift.mapper.17019", "string")
+swift.field.swift.mapper.17009.string := swift:field("swift.mapper.17009", "string")
+swift.field.const.int := swift:field("const", "int")
+swift.field.animation.file := swift:field("animation", "file")
+swift.field.N.int := swift:field("N", "int")
+swift.field.Nloop.int := swift:field("Nloop", "int")
+swift.field.Nsim.int := swift:field("Nsim", "int")
+swift.string.17020 := swift:new(swift.field.const.string, value="outputs/animation.gif")
+swift.string.17002 := swift:new(swift.field.const.string, value="utils/renderLoop.py")
+swift.string.17004 := swift:new(swift.field.const.string, value="-delay")
+swift.string.17018 := swift:new(swift.field.const.string, value=".png")
+swift.string.17007 := swift:new(swift.field.const.string, value="utils/renderScene.py")
+swift.string.17008 := swift:new(swift.field.const.string, value="inputs/grass.jpg")
+swift.string.17000 := swift:new(swift.field.const.string, value="-b")
+swift.string.17010 := swift:new(swift.field.const.string, value="x3dFiles")
+swift.string.17014 := swift:new(swift.field.const.string, value="utils")
+swift.string.17001 := swift:new(swift.field.const.string, value="--python")
+swift.string.17006 := swift:new(swift.field.const.string, value="outputs/frame**")
+swift.string.17003 := swift:new(swift.field.const.string, value="utils/camPathCalc.py")
+swift.string.17016 := swift:new(swift.field.const.string, value="outputs/frames_")
+swift.string.17022 := swift:new(swift.field.const.string, value="outputs/camPath.npy")
+swift.string.17005 := swift:new(swift.field.const.string, value="-loop")
+swift.string.17012 := swift:new(swift.field.const.string, value="inputs/sceneOptions.txt")
+swift.int.0 := swift:new(swift.field.const.int, value=0)
+swift.int.1 := swift:new(swift.field.const.int, value=1)
+swift.int.2 := swift:new(swift.field.const.int, value=2)
+swift.int.3 := swift:new(swift.field.const.int, value=3)
+swift.int.4 := swift:new(swift.field.const.int, value=4)
+N := 
+			swift:new(swift.field.N.int, readCount=3, _defline=11)
+Nloop := 
+			swift:new(swift.field.Nloop.int, readCount=6, _defline=13)
+swift.mapper.17009 := 
+			swift:new(swift.field.swift.mapper.17009.string)
+grassFile := 
+		swift:new(swift.field.grassFile.file, readCount=2, _defline=15, input=true
+			swift:mapping("SingleFileMapper", swift:parameter("file", swift.mapper.17009))
+		)
+swift.mapper.17011 := 
+			swift:new(swift.field.swift.mapper.17011.string)
+x3dFiles := 
+		swift:new(swift.field.x3dFiles.file.array.int, readCount=3, _defline=16, input=true
+			swift:mapping("filesys_mapper", swift:parameter("location", swift.mapper.17011))
+		)
+swift.mapper.17013 := 
+			swift:new(swift.field.swift.mapper.17013.string)
+sceneOptions := 
+		swift:new(swift.field.sceneOptions.file, readCount=3, _defline=17, input=true
+			swift:mapping("SingleFileMapper", swift:parameter("file", swift.mapper.17013))
+		)
+swift.mapper.17015 := 
+			swift:new(swift.field.swift.mapper.17015.string)
+utils := 
+		swift:new(swift.field.utils.file.array.int, readCount=3, _defline=18, input=true
+			swift:mapping("filesys_mapper", swift:parameter("location", swift.mapper.17015))
+		)
+swift.mapper.17017 := 
+			swift:new(swift.field.swift.mapper.17017.string)
+swift.mapper.17019 := 
+			swift:new(swift.field.swift.mapper.17019.string)
+renderframes := 
+		swift:new(swift.field.renderframes.file.array.int, waitCount=2, readCount=3, _defline=19
+			swift:mapping("simple_mapper", swift:parameter("prefix", swift.mapper.17017)
+			swift:parameter("suffix", swift.mapper.17019))
+		)
+swift.mapper.17021 := 
+			swift:new(swift.field.swift.mapper.17021.string)
+animation := 
+		swift:new(swift.field.animation.file, _defline=22
+			swift:mapping("SingleFileMapper", swift:parameter("file", swift.mapper.17021))
+		)
+swift.mapper.17023 := 
+			swift:new(swift.field.swift.mapper.17023.string)
+camPath := 
+		swift:new(swift.field.camPath.file, readCount=3, _defline=23
+			swift:mapping("SingleFileMapper", swift:parameter("file", swift.mapper.17023))
+		)
+Nsim := 
+			swift:new(swift.field.Nsim.int, readCount=2, _defline=69)
+
+renderLoop := function(out, sceneOptions, sceneNumber, Nloop, camPath, utils, x3dFiles, grassFile) {
+	swift:unitStart("PROCEDURE", name="renderLoop", line=49, outputs="out")
+	swift:waitFor(sceneOptions, sceneNumber, Nloop, camPath, utils, x3dFiles, grassFile)
+	k:tailcall(
+		swift:execute(
+			"renderLoop",
+				swift:stageIn(sceneOptions, camPath, utils, x3dFiles, grassFile)
+				swift:stageOut(out)
+	  		swift:commands(
+	  				swift:command("blender", null, null, null, swift.string.17000, swift.string.17001, swift.string.17002, swiftscript:filename(#_line=50
+	  				sceneOptions
+	  			), swiftscript:filename(#_line=50
+	  				out
+	  			), sceneNumber, Nloop, swiftscript:filename(#_line=50
+	  				camPath
+	  			))
+	  		)
+		)
+	)
+	swift:unitEnd("PROCEDURE", name="renderLoop", line=49)}
+
+camPathCalc := function(camPath, sceneOptions, utils, x3dFiles, N) {
+	swift:unitStart("PROCEDURE", name="camPathCalc", line=32, outputs="camPath")
+	swift:waitFor(sceneOptions, utils, x3dFiles, N)
+	k:tailcall(
+		swift:execute(
+			"camPathCalc",
+				swift:stageIn(sceneOptions, utils, x3dFiles)
+				swift:stageOut(camPath)
+	  		swift:commands(
+	  				swift:command("blender", null, null, null, swift.string.17000, swift.string.17001, swift.string.17003, swiftscript:filename(#_line=34
+	  				sceneOptions
+	  			), swiftscript:filename(#_line=34
+	  				camPath
+	  			), N)
+	  		)
+		)
+	)
+	swift:unitEnd("PROCEDURE", name="camPathCalc", line=32)}
+
+convert := function(o, s) {
+	swift:unitStart("PROCEDURE", name="convert", line=56, outputs="o")
+	swift:waitFor(s)
+	k:tailcall(
+		swift:execute(
+			"convert",
+				swift:stageIn(s)
+				swift:stageOut(o)
+	  		swift:commands(
+	  				swift:command("convert", null, null, null, swift.string.17004, swift.int.3, swift.string.17005, swift.int.0, swift.string.17006, swiftscript:filename(#_line=58
+	  				o
+	  			))
+	  		)
+		)
+	)
+	swift:unitEnd("PROCEDURE", name="convert", line=56)}
+
+render := function(out, sceneOptions, sceneNumber, camPath, utils, x3dFiles, grassFile) {
+	swift:unitStart("PROCEDURE", name="render", line=41, outputs="out")
+	swift:waitFor(sceneOptions, sceneNumber, camPath, utils, x3dFiles, grassFile)
+	k:tailcall(
+		swift:execute(
+			"render",
+				swift:stageIn(sceneOptions, camPath, utils, x3dFiles, grassFile)
+				swift:stageOut(out)
+	  		swift:commands(
+	  				swift:command("blender", null, null, null, swift.string.17000, swift.string.17001, swift.string.17007, swiftscript:filename(#_line=42
+	  				sceneOptions
+	  			), swiftscript:filename(#_line=42
+	  				out
+	  			), sceneNumber, swiftscript:filename(#_line=42
+	  				camPath
+	  			))
+	  		)
+		)
+	)
+	swift:unitEnd("PROCEDURE", name="render", line=41)}
+
+restartLog(name = k:concat(contextAttribute("SWIFT:SCRIPT_NAME"), "-", contextAttribute("SWIFT:RUN_ID"))) {
+	swift:mains(
+		swift:startProgressTicker()
+		uparallel(
+			swift:setFieldValue(
+				k:getAndDelete(swift.mapper.17009)
+				swiftscript:strcat(#_line=15
+					swift.string.17008
+				)
+			)
+			swift:setFieldValue(
+				k:getAndDelete(swift.mapper.17011)
+				swift.string.17010
+			)
+			swift:setFieldValue(
+				k:getAndDelete(swift.mapper.17013)
+				swiftscript:strcat(#_line=17
+					swift.string.17012
+				)
+			)
+			swift:setFieldValue(
+				k:getAndDelete(swift.mapper.17015)
+				swift.string.17014
+			)
+			swift:setFieldValue(
+				k:getAndDelete(swift.mapper.17017)
+				swift.string.17016
+			)
+			swift:setFieldValue(
+				k:getAndDelete(swift.mapper.17019)
+				swift.string.17018
+			)
+			swift:setFieldValue(
+				k:getAndDelete(swift.mapper.17021)
+				swift.string.17020
+			)
+			swift:setFieldValue(
+				k:getAndDelete(swift.mapper.17023)
+				swiftscript:strcat(#_line=23
+					swift.string.17022
+				)
+			)
+			swift:setFieldValue(#_line=13
+				swift:readVar(N)
+				swift.int.3
+			)
+			swift:setFieldValue(#_line=15
+				swift:readVar(Nloop)
+				swift.int.4
+			)
+			camPathCalc(#_line=65
+				swift:readVar(camPath)
+				swift:readVar(sceneOptions), swift:readVar(utils), swift:readVar(x3dFiles), swift:readVar(N)
+			)
+			swift:setFieldValue(#_line=71
+				swift:readVar(Nsim)
+				swiftop:sum(
+					swiftscript:toInt(#_line=69
+						swiftop:subtraction(
+							swiftscript:pow(#_line=69
+								swiftscript:toFloat(#_line=69
+									swift.int.2
+								), swiftscript:toFloat(#_line=69
+									swift:readVar(N)
+								)
+							)
+							swift.int.1
+						)
+					)
+					swift:readVar(Nloop)
+				)
+			)
+			swift:tParallelFor(#_line=71, _vvar="scene", wrefs="renderframes 1", rrefs="camPath 1 x3dFiles 1 utils 1 sceneOptions 1 grassFile 1 Nloop 1",
+				getArrayIterator(swift:range(swift.int.0, swift:readVar(Nloop)))) {
+
+				swift:unitStart("FOREACH_IT", line=71) 
+				sequential(
+				   	renderLoop(#_line=72
+				   		swift:getFieldSubscript(swift:unwrapVar(renderframes), scene)
+				   		swift:readVar(sceneOptions), scene, swift:readVar(Nloop), swift:readVar(camPath), swift:readVar(utils), swift:readVar(x3dFiles), swift:readVar(grassFile)
+				   	)
+				   	swift:partialClose(renderframes, 1)
+				)
+
+				swift:unitEnd("FOREACH_IT", line=71)
+			}
+			swift:tParallelFor(#_line=75, _vvar="scene", wrefs="renderframes 1", rrefs="camPath 1 x3dFiles 1 utils 1 sceneOptions 1 grassFile 1 Nloop 1",
+				getArrayIterator(swift:range(swiftop:sum(
+				swift:readVar(Nloop)
+				swift.int.1
+			), swift:readVar(Nsim)))) {
+
+				swift:unitStart("FOREACH_IT", line=75) 
+				sequential(
+				   	render(#_line=76
+				   	parallel(
+				   		swift:getFieldSubscript(swift:unwrapVar(renderframes), scene)
+				   		swift:readVar(sceneOptions), swiftop:subtraction(
+				   			scene
+				   			swift:readVar(Nloop)
+				   		), swift:readVar(camPath), swift:readVar(utils), swift:readVar(x3dFiles), swift:readVar(grassFile)
+				   	)
+				   	)
+				   	swift:partialClose(renderframes, 1)
+				)
+
+				swift:unitEnd("FOREACH_IT", line=75)
+			}
+			convert(#_line=79
+				k:getAndDelete(animation)
+				swift:readVar(renderframes)
+			)
+		)
+		swift:stopProgressTicker()
+	)
+}
+
+swift:cleanDataset(camPath)
+swift:cleanDataset(renderframes)
+swift:cleanDataset(x3dFiles)
+swift:cleanDataset(utils)
+swift:cleanDataset(sceneOptions)
+swift:cleanDataset(grassFile)
+swift:cleanDataset(animation)
+swift:cleanDataset(shutdown=true)
